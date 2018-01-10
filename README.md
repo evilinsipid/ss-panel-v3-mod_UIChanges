@@ -25,32 +25,38 @@
 ### 图片 Images
 
 Image:
-
-![](https://qianbx.com/images/github/1.jpg)
+-------------------
+![](https://github.com/galaxychuck/images/blob/master/1.jpg)
 
 > 登錄界面
+-------------------
 
-![](https://qianbx.com/images/github/2.jpg)
+![](https://github.com/galaxychuck/images/blob/master/2.jpg)
 
 > 首頁
 
-![](https://qianbx.com/images/github/3.jpg)
+-------------------
+![](https://github.com/galaxychuck/images/blob/master/3.jpg)
 
 > 位置調整
 
-![](https://qianbx.com/images/github/4.jpg)
+-------------------
+![](https://github.com/galaxychuck/images/blob/master/4.jpg)
 
 > 非VIP查看等級1節點顯示
 
-![](https://qianbx.com/images/github/5.jpg)
+-------------------
+![](https://github.com/galaxychuck/images/blob/master/5.jpg)
 
 > f2f支付寶支付（推薦使用支付寶黑號，以免喝茶）
 
-![](https://qianbx.com/images/github/6.jpg)
-
+-------------------
+![](https://github.com/galaxychuck/images/blob/master/6.jpg)
 
 > 教程
+-------------------
 
-![](https://qianbx.com/images/github/7.jpg)
+![](https://github.com/galaxychuck/images/blob/master/7.jpg)
 
 > 賬號使用情況
+-------------------

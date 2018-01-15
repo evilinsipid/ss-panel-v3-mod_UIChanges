@@ -21,7 +21,12 @@
 
 3、如果您有任何問題，概不接受任何質疑、Wiki製作、Issuse...等等
 
-
+4、國標素材：/public/images/prefix/国旗
+   放置位置：/public/images/prefix
+   命名標準：節點全部名稱：波兰 VIP节点2 - 10G带宽
+            圖標文件命名：波兰 VIP节点2.jpg
+5、web IM：右下角客服系統代碼位置：/resources/views/material/user/main.tpl     481行
+   web IM註冊地址：https://crisp.chat/
 ### 图片 Images
 
 Image:
